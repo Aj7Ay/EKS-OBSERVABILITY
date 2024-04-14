@@ -95,3 +95,5 @@ last 10 build details
 ```
 SELECT "build_exec_time", "project_name", "build_number", "build_causer", "build_time", "build_result" FROM "jenkins_data" WHERE $timeFilter ORDER BY time DESC LIMIT 10
 ```
+
+![image](https://github.com/Aj7Ay/EKS-OBSERVABILITY/assets/110721907/ca622289-c2fa-4658-a1c3-d39ce298af39)
