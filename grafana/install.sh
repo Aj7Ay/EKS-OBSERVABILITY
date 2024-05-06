@@ -1,4 +1,5 @@
 #!/bin/bash
+#Aj7Ay
 echo installing grafana...
 
 kubectl create ns grafana
